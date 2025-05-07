@@ -1,6 +1,5 @@
 /*
-	Author: Vo Hoang Nhat Khang
-	Time: 10/06/2022
+	Author: Phạm Lê Ngọc Sơn
 	TOPIC: Queue
 	Subject: DATA STRUCTURE and ALGORITHM
 */

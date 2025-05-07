@@ -1,9 +1,7 @@
 /*
-    Author: Vo Hoang Nhat Khang
+    Author: Phạm Lê Ngọc Sơn
     Major: Computer Science
-    College: Ho Chi Minh University of Technology
-    Field: Artificial Intelligent chaser
-    21/06/2022
+    Field: Data Structures and Algorithms
 */
 
 #include <iostream>
